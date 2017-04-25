@@ -14,13 +14,13 @@
 <tspan x="10" y="186">    │ ├── core-js@2.4.1 </tspan>
 <tspan x="10" y="202">    │ └── regenerator-runtime@0.10.3 </tspan>
 <tspan x="10" y="218">    ├─┬ easydate@2.2.1 </tspan>
-<tspan x="10" y="234">    │ └─┬ mocha@3.2.0 </tspan>
+<tspan x="10" y="234">    │ └─┬ mocha@3.3.0 </tspan>
 <tspan x="10" y="250">    │   ├── browser-stdout@1.3.0 </tspan>
 <tspan x="10" y="266">    │   ├─┬ commander@2.9.0 </tspan>
 <tspan x="10" y="282">    │   │ └── graceful-readlink@1.0.1 </tspan>
-<tspan x="10" y="298">    │   ├─┬ debug@2.2.0 </tspan>
-<tspan x="10" y="314">    │   │ └── ms@0.7.1 </tspan>
-<tspan x="10" y="330">    │   ├── diff@1.4.0 </tspan>
+<tspan x="10" y="298">    │   ├─┬ debug@2.6.0 </tspan>
+<tspan x="10" y="314">    │   │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="330">    │   ├── diff@3.2.0 </tspan>
 <tspan x="10" y="346">    │   ├── escape-string-regexp@1.0.5 </tspan>
 <tspan x="10" y="362">    │   ├── growl@1.9.2 </tspan>
 <tspan x="10" y="378">    │   ├── json3@3.3.2 </tspan>
@@ -44,7 +44,7 @@
 <tspan x="10" y="666">    │ │ └── filename-reserved-regex@1.0.0 </tspan>
 <tspan x="10" y="682">    │ └─┬ humanize-url@1.0.1 </tspan>
 <tspan x="10" y="698">    │   ├─┬ normalize-url@1.9.1 </tspan>
-<tspan x="10" y="714">    │   │ ├─┬ query-string@4.3.3 </tspan>
+<tspan x="10" y="714">    │   │ ├─┬ query-string@4.3.4 </tspan>
 <tspan x="10" y="730">    │   │ │ └── strict-uri-encode@1.1.0 </tspan>
 <tspan x="10" y="746">    │   │ └─┬ sort-keys@1.1.2 </tspan>
 <tspan x="10" y="762">    │   │   └── is-plain-obj@1.1.0 </tspan>
@@ -72,7 +72,7 @@
 <tspan x="10" y="1114">    │ │ │ └── signal-exit@3.0.2 </tspan>
 <tspan x="10" y="1130">    │ │ ├── map-obj@1.0.1 </tspan>
 <tspan x="10" y="1146">    │ │ ├── minimist@1.2.0 </tspan>
-<tspan x="10" y="1162">    │ │ ├─┬ normalize-package-data@2.3.6 </tspan>
+<tspan x="10" y="1162">    │ │ ├─┬ normalize-package-data@2.3.8 </tspan>
 <tspan x="10" y="1178">    │ │ │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="1194">    │ │ │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="1210">    │ │ │ │ └── builtin-modules@1.1.1 </tspan>
@@ -155,7 +155,7 @@
 <tspan x="10" y="2442">    │ ├── file-url@2.0.2 </tspan>
 <tspan x="10" y="2458">    │ └── prepend-http@1.0.4 </tspan>
 <tspan x="10" y="2474">    ├─┬ rimraf@2.6.1 </tspan>
-<tspan x="10" y="2490">    │ └─┬ glob@7.0.5 </tspan>
+<tspan x="10" y="2490">    │ └─┬ glob@7.1.1 </tspan>
 <tspan x="10" y="2506">    │   ├── fs.realpath@1.0.0 </tspan>
 <tspan x="10" y="2522">    │   ├─┬ inflight@1.0.6 </tspan>
 <tspan x="10" y="2538">    │   │ └── wrappy@1.0.2 </tspan>

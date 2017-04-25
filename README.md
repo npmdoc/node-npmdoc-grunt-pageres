@@ -1,4 +1,7 @@
-# api documentation for  [grunt-pageres (v2.2.0)](https://github.com/sindresorhus/grunt-pageres#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-pageres.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-pageres) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-pageres.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-pageres)
+# npmdoc-grunt-pageres
+
+#### basic api documentation for  [grunt-pageres (v2.2.0)](https://github.com/sindresorhus/grunt-pageres#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-pageres.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-pageres) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-pageres.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-pageres)
+
 #### Capture website screenshots
 
 [![NPM](https://nodei.co/npm/grunt-pageres.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-pageres)
@@ -107,7 +110,8 @@
     "scripts": {
         "test": "xo && grunt && ava && trash tmp"
     },
-    "version": "2.2.0"
+    "version": "2.2.0",
+    "bin": {}
 }
 ```
 

@@ -6,6 +6,7 @@ npmdoc-grunt-pageres@0.0.1 /home/travis/build/npmdoc/node-npmdoc-grunt-pageres
   ├── exit@0.1.2 
   ├─┬ findup-sync@0.3.0 
   │ └── glob@5.0.15 
+  ├── glob@7.0.6 
   ├─┬ grunt-cli@1.2.0 
   │ └── resolve@1.1.7 
   ├── grunt-known-options@1.1.0 
@@ -19,7 +20,7 @@ npmdoc-grunt-pageres@0.0.1 /home/travis/build/npmdoc/node-npmdoc-grunt-pageres
   │ ├── async@1.5.2 
   │ ├── getobject@0.1.0 
   │ └── lodash@4.3.0 
-  ├── iconv-lite@0.4.15 
+  ├── iconv-lite@0.4.16 
   ├─┬ js-yaml@3.5.5 
   │ ├─┬ argparse@1.0.9 
   │ │ └── sprintf-js@1.0.3 
